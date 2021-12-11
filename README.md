@@ -1,0 +1,2 @@
+# okulumcebimdegizlilikpolitikasi
+Okulum Cebimde uygulaması Gizlilik Politikası
